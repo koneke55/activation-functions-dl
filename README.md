@@ -1,4 +1,4 @@
-# Activation Functions for Deep Learning
+# Activation Functions for Deep Learning     
             
 An educational, hands-on repository to learn, implement, and visualize activation functions used in Deep Learning. This project is ideal for students and practitioners who want a clear, practical understanding of how activations behave, why they matter, and how to use them.
      
