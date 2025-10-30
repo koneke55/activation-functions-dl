@@ -13,7 +13,7 @@ Activation functions introduce non-linearity, allowing neural networks to approx
 - Gradient flow (vanishing/exploding)
 - Training stability and speed
 - Model expressivity and performance
-
+     
 This repo demonstrates shapes, properties, and practical differences to build intuition.
 
 ---
