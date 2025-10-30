@@ -6,7 +6,7 @@ An educational, hands-on repository to learn, implement, and visualize activatio
 - Ready-to-run visualization in `examples/plot_activations.py`
 - Colab-friendly notebook in `notebooks/activation_functions_colab.ipynb`
 - Focus on numerical stability and intuition
-           
+               
 
 ## Why Activation Functions Matter
 Activation functions introduce non-linearity, allowing neural networks to approximate complex functions. The choice of activation affects:
