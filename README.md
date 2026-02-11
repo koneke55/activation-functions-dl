@@ -170,7 +170,6 @@ Contributions are welcome! Ideas to improve learning value:
 - Comparative training demos on toy datasets
 
 Open an issue or submit a PR.
-
 ---
 
 ## License
