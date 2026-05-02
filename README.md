@@ -154,15 +154,6 @@ activation-functions-dl/
 
 ---
 
-## References and Further Study
-- Goodfellow, Bengio, Courville — Deep Learning (MIT Press)
-- Hendrycks & Gimpel — GELU (Gaussian Error Linear Units)
-- Ramachandran, Zoph, Le — Swish: a Self-Gated Activation Function
-- Misra — Mish: A Self Regularized Non-Monotonic Neural Activation Function
-- PyTorch / TensorFlow docs on activation functions
-
----
-
 ## Contributing
 Contributions are welcome! Ideas to improve learning value:
 - Add derivative visualizations (first/second derivatives)
